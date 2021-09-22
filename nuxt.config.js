@@ -1,5 +1,6 @@
 export default {
   components: true,
+  target: 'static',
   head: {
     title: "Nuxt Image Example",
     htmlAttrs: {

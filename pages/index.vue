@@ -19,12 +19,12 @@
           <article>
             <figure class="figure">
               <nuxt-img
-                provider="cloudinary"
-                src="117_acy7d3"
+                provider="static"
+                src="/images/stairs.jpg"
                 width="431"
                 height="600"
                 class="figure-img img-fluid card-img-top shadow"
-                sizes="sm:576px md:768px lg:992px xl:1200px xxl:1400px"
+                sizes="sm:100vw md:50vw lg:400px"
               />
               <figcaption class="figure-caption p-2 text-center">
                 a caption here
